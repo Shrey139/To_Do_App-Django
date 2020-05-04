@@ -1,7 +1,7 @@
 # To_Do_App-Django
 This is TO_DO_LIST APP made in DJango
 
-# First migrateion the files
+# First migration the files
 `python manage.py makemigrations`
 
 # after migration migrate them
