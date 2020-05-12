@@ -1,5 +1,5 @@
 # To_Do_App-Django
-This is TO_DO_LIST APP made in DJango
+This is TO_DO_LIST APP made in DJango.
 
 # First migration the files
 `python manage.py makemigrations`
