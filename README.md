@@ -15,3 +15,10 @@ This is TO_DO_LIST APP made in DJango.
 
 # creating the catagories
 To create the catagory run the server and type localhost:8081/admin and enter the password of super-user that you made. then After go to the catagories and make catagories as you want.
+
+#Technology 
+* Python
+* Django framework
+* HTML
+* CSS
+* Git
